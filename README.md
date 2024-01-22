@@ -4,4 +4,5 @@
 
 - The game will give hints if the number is lower or higher if the user gets it wrong.
 - The user can play again after winning.
+- It has a Responsive Voice text to read the text.
   
